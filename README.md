@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi I'm Sujeet 👋
+# Hi I'm Sujeet :wave:
 I'm a software engineer who is passionate about creating solutions and problem solving to make life more easy. Some tech I enjoy working with Python, Javascript, MySQL, MongoDB, System Design and always looking upto latest tech available out there.
 
 ## Find me around the web:
