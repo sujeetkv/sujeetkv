@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi I'm Sujeet :wave:
-I'm a software engineer who is passionate about creating solutions and problem solving to make life more easy. Some tech I enjoy working with Python, Javascript, MySQL, MongoDB, System Design and always looking upto latest tech available out there.
+I'm a software engineer who is passionate about problem solving and creating solutions to make life more easy. Some tech I enjoy working with Python, Javascript, MySQL, MongoDB, System Design and always looking upto latest tech available out there.
 
 ### Find me around the web:
 :briefcase: [LinkedIn](https://www.linkedin.com/in/sujeet-kumar-90)
