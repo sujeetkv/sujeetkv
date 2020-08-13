@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sujeetkv/sujeetkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi I'm Sujeet 👋
+I'm a software engineer who is passionate about creating solutions and problem solving to make life more easy. Some tech I enjoy working with Python, Javascript, MySQL, MongoDB, System Design and always looking upto latest tech available out there.
+
+## Find me around the web:
+:briefcase: [LinkedIn](https://www.linkedin.com/in/sujeet-kumar-90)
