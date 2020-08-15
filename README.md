@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## `Hello World!` :wave:
-## this is Sujeet
+## this is Sujeet :technologist:
 
 I'm a software engineer who is passionate about problem solving and creating solutions to make life more easy. Some tech I enjoy working with Python, Javascript, MySQL, MongoDB, System Design and always looking upto latest tech available out there.
 
