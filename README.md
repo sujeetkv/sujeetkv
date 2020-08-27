@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## `Hello World!` :wave:
 ## I'm Sujeet :technologist:
 
-I'm a software engineer who is passionate about problem solving and creating solutions to make life more easy. Some of the tech I enjoy working with Python, Javascript, MySQL, MongoDB, System Design and always looking upto latest tech available out there.
+I'm a software engineer who is passionate about problem solving and creating solutions to make life more easy. I'm currently working on are Python, Javascript, MySQL, MongoDB, System Design and always looking upto latest tech available out there.
 
 I care about environment, science and technology.
 
