@@ -22,4 +22,4 @@ I care about environment, science and technology.
 
 ### Find me around the web:
 
-:briefcase: [LinkedIn](https://www.linkedin.com/in/sujeet-kumar-90)
+:briefcase: [LinkedIn](https://in.linkedin.com/in/sujeet-kumar-90)
